@@ -1,22 +1,19 @@
-# Node.js / React frontend
+# Node dependencies
 node_modules/
-build/
-dist/
-.env
-*.log
 
-# Spring Boot / Java backend
-target/
-*.class
-*.jar
-*.war
-*.log
-.env
+# Backend build
+pulse1-backend/target/
 
-# IDE / Editor / System files
+# IDE files
 .vscode/
 .idea/
 *.iml
-.DS_Store
-Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+
 
