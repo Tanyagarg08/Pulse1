@@ -1,6 +1,15 @@
 # Pulse1
 
-Pulse1 is a **real-time healthcare logistics application** that connects healthcare providers with delivery services efficiently. It is designed for fast, scalable, and secure order management, inspired by models like Zepto and Blinkit.  
+Pulse1 is a modern healthcare delivery platform designed to connect patients, hospitals, and logistics partners in real-time, ensuring timely delivery of healthcare essentials. Inspired by fast-delivery apps like Zepto and Blinkit, Pulse1 leverages cloud hosting, scalable backend services, and APIs to provide efficient and reliable service.
+
+Key highlights:
+- **Real-time matching:** Patients can quickly connect with available healthcare delivery partners.
+- **Scalable system:** Designed to handle high traffic and future growth.
+- **Seamless integration:** Works with existing logistics partners to streamline operations.
+- **Modern tech stack:** React.js frontend, Spring Boot backend, MongoDB + SQL database, and deployment on Render.
+- **User-friendly dashboards:** Both frontend and admin backend dashboards for managing orders, deliveries, and tracking.
+
+**Goal:** Pulse1 aims to reduce delays in healthcare delivery and provide a seamless experience for patients and providers alike.
 
 The project uses **React.js + Tailwind** for frontend, **Spring Boot** for backend, and **MongoDB + SQL** for database management.
 
