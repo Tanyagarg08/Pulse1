@@ -74,7 +74,18 @@ cd pulse1-frontend
 npm install
 npm start
 
+### Backend (Local)
+
 cd pulse1-backend
 mvn clean install
 mvn spring-boot:run
+
+## Screenshots
+
+### Frontend Homepage
+![Frontend Homepage](docs/frontend-home.png.png)
+
+### Backend Dashboard
+![Backend Dashboard](docs/backend-dashboard.png.png)
+
 
