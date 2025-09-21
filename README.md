@@ -69,7 +69,6 @@ Pulse1/
 
 ### Frontend (Local)
 
-```bash
 cd pulse1-frontend
 npm install
 npm start
@@ -83,9 +82,9 @@ mvn spring-boot:run
 ## Screenshots
 
 ### Frontend Homepage
-![Frontend Homepage](docs/frontend-home.png.png)
+![Frontend Home](docs/frontend-home.png.png)  
 
 ### Backend Dashboard
-![Backend Dashboard](docs/backend-dashboard.png.png)
+![Backend Dashboard](docs/backend-dashboard.png.png) 
 
 
