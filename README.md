@@ -94,6 +94,7 @@ mvn spring-boot:run
 ![Frontend Home](docs/frontend-home.png.png)  
 
 ### Backend Dashboard
-![Backend Dashboard](docs/backend-dashboard.png.png) 
+![Backend Dashboard](docs/backend-dashboard.png)
+
 
 
